@@ -116,7 +116,7 @@ export function ColophonSection() {
           <h4 className="font-mono text-[9px] uppercase tracking-[0.3em] text-muted-foreground mb-4">Contact</h4>
           <ul className="space-y-2">
             <li>
-              <a href="mailto:contact@logk.com" target="_blank" rel="noopener noreferrer" className="font-mono text-xs text-foreground/80 hover:text-accent transition-colors">
+              <a href="mailto:contact@logk.in" className="font-mono text-xs text-foreground/80 hover:text-accent transition-colors">
                 Mail Us
               </a>
             </li>
